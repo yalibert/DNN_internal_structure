@@ -1,0 +1,1 @@
+# DNN_internal_structure
